@@ -1,2 +1,2 @@
-# cs36300-spring2019-composition
+# Array Template Classes
 Assignment 2 Composition
