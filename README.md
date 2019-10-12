@@ -1,2 +1,2 @@
 # Array Template Classes
-Assignment 2 Composition
+Array, Stack , and Queue classes implemented in C++
